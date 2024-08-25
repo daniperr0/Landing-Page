@@ -1,6 +1,5 @@
 "use client"
 
-import image from 'next/image'
 import Link from 'next/link';
 import { TypeAnimation } from 'react-type-animation';
 
@@ -35,7 +34,7 @@ const Introduction = () => {
                         <Link href={'/portfolio'} className='px-3 py-2 transition-all border-2 cursor-pointer text-xl w-fit rounded-xl hover:shadow-xl hover:shadow-white/50 '>
                         Ver proyectos
                         </Link>
-                        <Link href={'https://www.linkedin.com/in/danilo-pirela/'} className='px-3 py-2 transition-all border-2 cursor-pointer text-secondary border-secondary text-xl w-fit rounded-xl hover:shadow-xl hover:shadow-secondary '>
+                        <Link href={'https://wa.me/qr/V5T7NKA2T6GXH1'} className='px-3 py-2 transition-all border-2 cursor-pointer text-secondary border-secondary text-xl w-fit rounded-xl hover:shadow-xl hover:shadow-secondary '>
                         Contacta conmigo
                         </Link>
                     </div>

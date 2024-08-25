@@ -1,4 +1,6 @@
-import { BookText, CodeSquare, HomeIcon, UserRound, Linkedin, Twitter, Rss, Twitch, Youtube, Crop, Pencil, Computer, Book, Rocket, Speech } from "lucide-react";
+
+import { FaWhatsapp } from "react-icons/fa";
+import { BookText, CodeSquare, HomeIcon, Linkedin } from "lucide-react";
 
 export const socialNetworks = [
     {
@@ -6,6 +8,13 @@ export const socialNetworks = [
         logo: <Linkedin size={30} strokeWidth={1} />,
         src: "https://www.linkedin.com/in/danilo-pirela/",
     },
+    {
+        id: 2,
+        logo: <FaWhatsapp size={30} strokeWidth={1} />,
+        src: "https://wa.me/qr/V5T7NKA2T6GXH1",
+    }
+
+    
 ];
 
 

@@ -28,7 +28,8 @@ const Header = () => {
                             {logo}
                         </Link>
 
-                    ))}</div>
+                    ))}
+                    </div>
 
                 </div>
             </header>

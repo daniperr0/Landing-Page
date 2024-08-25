@@ -8,7 +8,7 @@ import CoverParticles from "@/components/cover-particles";
 const urbanist = Urbanist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Landing page",
+  title: "DaniP ",
   description: "Landing page made by Danilo",
 };
 
