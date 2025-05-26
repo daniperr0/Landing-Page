@@ -60,5 +60,12 @@ export const dataPortfolio = [
         image: "/image-3.png",
         urlGithub: "https://github.com/daniperr0/WebStore-Basic.git",
         urlDemo: "https://majestic-sherbet-6044ce.netlify.app",
+    },
+    {
+        id: 3,
+        title: "Online Web Store",
+        image: "/image-3.png",
+        urlGithub: "https://github.com/daniperr0/WebStore-Basic.git",
+        urlDemo: "https://majestic-sherbet-6044ce.netlify.app",
     }
 ];
