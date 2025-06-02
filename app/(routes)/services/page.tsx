@@ -15,7 +15,7 @@ const ServicePage = () => {
                     </span>
                 </h1>
                     <p className="mb-3 text-xl text-gray-300">
-                        Ofrezco mis servicios de desarrollo frontend especializados en la creacion de sitios wev y aplicaciones atractivas y funcionales Utilizando las ultimas tecnologias como React.js, next.js, TypeSript, tailwindCSS y bootstrap, sin obviar el uso de las fundamentales como lo son HTML, CSS y JavaScript.
+                        Ofrezco mis servicios de desarrollo frontend especializados en la creacion de sitios wev y aplicaciones atractivas y funcionales Utilizando las ultimas tecnologias como React.js, Next.js, TypeSript, TailwindCSS, Bootstrap y Laravel, sin obviar el uso de las fundamentales como lo son HTML, CSS y JavaScript.
                     </p>
                     <Link className=" px-3 py-2 rounded-lg bg-secondary hover:bg-secondary/65" href={"https://wa.me/qr/V5T7NKA2T6GXH1"}>Contacta conmigo</Link>
 
