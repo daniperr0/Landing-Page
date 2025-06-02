@@ -29,7 +29,7 @@ const Introduction = () => {
 
 
                     </h1>
-                    <p className='mx-auto mb-2 text-xl md:mx-0 md:mb-8'>Como desarollador frontend junior, espero poder dedicarme a combinar diseños y funcionalidades para crear paginas que den una experiencias digitales impresionantes y accesibles </p>
+                    <p className='mx-auto mb-2 text-xl md:mx-0 md:mb-8'>Como desarollador fullstack junior, espero poder dedicarme a combinar diseños y funcionalidades para crear paginas que den una experiencias digitales impresionantes, accesibles y utiles </p>
                     <div className='flex items-center justify-center gap-3 md:justify-center md:gap-10'>
                         <Link href={'/portfolio'} className='px-3 py-2 transition-all border-2 cursor-pointer text-xl w-fit rounded-xl hover:shadow-xl hover:shadow-white/50 '>
                         Ver proyectos
